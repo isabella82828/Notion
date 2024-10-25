@@ -40,17 +40,13 @@ Follow these steps to set up the **Notion Mail CLI** on your local machine.
    ```bash
    git clone https://github.com/username/Notion-Take-Home-Assessment.git
    cd Notion-Take-Home-Assessment
+   
 2. To start the Notion Mail CLI, run:
    ```javascript
    node index.js 
    ```
-3. Set up your **Notion database**:
-   - Log in to your Notion account.
-   - Create a new Table database with the required properties.
-   - Connect your Notion database to the Notion API by following this guide.
-https://developers.notion.com/docs/create-a-notion-integration#getting-started
-
-4. **Set up your Notion database**:
+   
+3. Set up your** Notion database:**
    - Log in to your [Notion account](https://www.notion.so/).
    - Create a new **Table** database with the following properties:
      - `Message` (Title)
