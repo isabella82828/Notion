@@ -38,7 +38,7 @@ copyCodeBlock(anHtmlFile);
 ```
 OR
 ```javascript
-copyCodeBlock('<div>Thundercats</div>')
+node index.js 
 ```
 OR
 ```javascript
