@@ -20,10 +20,14 @@ Perfect for developers who love keeping things organized but with a dash of cool
 
 **Running the CLI 🚀**
 To start the Notion Mail CLI, run:
+```javascript
+`${copyCodeBlock('<div>node index.js</div>')}`
+```
 
-node index.js
 
 ## Usage
+
+
 ```javascript
 import copyCodeBlock from '@pickra/copy-code-block';
 // OR
