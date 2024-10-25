@@ -6,7 +6,7 @@ Notion Mail CLI is a simple and fun Command Line Interface (CLI) tool, powered b
 
 Perfect for developers who love keeping things organized but with a dash of cool tech. 😎
 
-**Features 💡**
+## Features 💡
 
 - 📝 **Send Messages**: Send messages to a specific recipient.
 - 📖 **Read Messages**: Check your inbox and read received messages.
@@ -18,7 +18,7 @@ Perfect for developers who love keeping things organized but with a dash of cool
 - 🚮 **Delete Messages**: Permanently delete unwanted messages.
 - 👋 **Exit**: Quit the application.
 
-**Running the CLI 🚀**
+## Running the CLI 🚀**
 To start the Notion Mail CLI, run:
 ```javascript
 node index.js 
