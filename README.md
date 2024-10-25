@@ -2,9 +2,9 @@
 
 Welcome to Notion Mail CLI, a command-line interface (CLI) tool that allows you to send, read, search, and manage messages via the Notion API. 
 
-Notion Mail CLI is a simple and fun Command Line Interface (CLI) tool, powered by the magical ✨ Notion API ✨. It lets you send, read, search, and manage messages, all from the comfort of your terminal. 📨💌
+Notion Mail CLI is a simple and fun Command Line Interface (CLI) tool, powered by the magical ✨ Notion API ✨. It lets you send, read, search, and manage messages, all from the comfort of your terminal 📨💌
 
-Perfect for developers who love keeping things organized but with a dash of cool tech. 😎
+Perfect for developers who love keeping things organized but with a dash of cool tech 😎
 
 ## Features 💡
 
@@ -52,10 +52,10 @@ Follow these steps to set up the **Notion Mail CLI** on your local machine.
      - `Message` (Title)
      - `Sender` (Text)
      - `Recipient` (Text)
-     - 'Timestamp' (Date)
-     - 'Archived' (Checkbox)
-     - 'Read' (Checkox)
-     - 'Starred' (Checkbox)
+     - `Timestamp` (Date)
+     - `Archived` (Checkbox)
+     - `Read` (Checkox)
+     - `Starred` (Checkbox)
    - Connect your Notion database to the Notion API by following [this guide](https://developers.notion.com/docs/create-a-notion-integration#getting-started).
 
 
