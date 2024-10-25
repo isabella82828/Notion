@@ -23,15 +23,24 @@ To start the Notion Mail CLI, run:
 
 node index.js
 
-First, run the development server:
-
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-Open http://localhost:3000 with your browser to see the result.
+## Usage
+```javascript
+import copyCodeBlock from '@pickra/copy-code-block';
+// OR
+const copyCodeBlock = require('@pickra/copy-code-block');
+```
+Then add it to your code
+```javascript
+import anHtmlFile from './anHtmlFile.html';
+copyCodeBlock(anHtmlFile);
+```
+OR
+```javascript
+copyCodeBlock('<div>Thundercats</div>')
+```
+OR
+```javascript
+`${copyCodeBlock('<div>Thundercats</div>')}`
+```
 
 
