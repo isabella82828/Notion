@@ -63,3 +63,20 @@ Follow these steps to set up the **Notion Mail CLI** on your local machine.
    npm test 
    ```
 
+##  Future Improvements 🎨
+Here are some potential features and enhancements that could be added to the Notion Mail CLI:
+
+📂 Message Folders: Implement folders to help users organize their messages by category (e.g., Personal, Work, Spam).
+
+👥 Multiple Recipients: Enable sending messages to multiple recipients simultaneously, similar to email CC/BCC functionality.
+
+🔒 Message Encryption: Add encryption capabilities to ensure message content is securely transmitted and stored.
+
+🎨 Customizable Themes: Provide users with different themes or colors for the CLI interface to personalize their experience.
+
+🏷️ Message Labels/Tags: Implement labels or tags for messages, allowing users to categorize and search messages by custom tags.
+
+🔗 Integration with Other APIs: Extend the functionality by integrating with other APIs like Slack, Gmail, or Trello, allowing users to manage messages across different platforms.
+
+
+
