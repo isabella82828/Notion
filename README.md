@@ -57,6 +57,9 @@ Follow these steps to set up the **Notion Mail CLI** on your local machine.
      - `Read` (Checkox)
      - `Starred` (Checkbox)
    - Connect your Notion database to the Notion API by following [this guide](https://developers.notion.com/docs/create-a-notion-integration#getting-started).
-
-
+  
+4. Testing suite
+ ```javascript
+   npm test 
+   ```
 
