@@ -1,4 +1,4 @@
-# Notion Mail CLI
+# Notion Mail CLI 💌
 
 Welcome to Notion Mail CLI, a command-line interface (CLI) tool that allows you to send, read, search, and manage messages via the Notion API. 
 
