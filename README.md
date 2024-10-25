@@ -18,7 +18,28 @@ Perfect for developers who love keeping things organized but with a dash of cool
 - 🚮 **Delete Messages**: Permanently delete unwanted messages.
 - 👋 **Exit**: Quit the application.
 
-## Running the CLI 🚀**
+## Built With 🛠️
+
+- **Node.js** - JavaScript runtime used for building the CLI tool.
+- **Notion API** - Interface used for interacting with the Notion database.
+- **dotenv** - Module to securely manage API keys and environment variables.
+- **Jest** - JavaScript testing framework used for testing the application.
+
+## Getting Started 🚀
+
+Follow these steps to set up the **Notion Mail CLI** on your local machine.
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/en/download/) installed on your system.
+- A free Notion account with API access ([Get started with Notion API](https://developers.notion.com/docs/getting-started)).
+
+### Installation
+
+1. **Clone the repository** to your local machine:
+   ```bash
+   git clone https://github.com/username/Notion-Take-Home-Assessment.git
+   cd Notion-Take-Home-Assessment
 To start the Notion Mail CLI, run:
 ```javascript
 node index.js 
