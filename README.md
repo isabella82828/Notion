@@ -63,6 +63,25 @@ Follow these steps to set up the **Notion Mail CLI** on your local machine.
    npm test 
    ```
 
+## Product and Technical Choices 🤔
+
+- **Notion API for Data Storage**: Notion offers a structured database system that is easy to interact with using API calls, making it perfect for storing, reading, and managing messages.
+
+- **Command-Line Interface (CLI)**: A CLI interface was chosen for simplicity and accessibility. It allows developers to interact with the application without the need for a GUI, making the tool lightweight and easy to run across different platforms.
+
+- **Node.js for Backend Logic**: Node.js was selected for its non-blocking, event-driven architecture, which is ideal for building applications that require asynchronous operations, such as querying an API like Notion's.
+
+- **Jest for Testing**: Jest was used to ensure correctness and reliability of core features, like sending and reading messages. It is a widely adopted testing framework in the JavaScript ecosystem, making it a natural fit for this project.
+
+- **Auto-Reply Feature**: The auto-reply functionality was added to enhance user experience, especially for use cases where users might be unavailable to respond to messages manually.
+
+- **Environment Variables with dotenv**: The **dotenv** library was used to manage sensitive information such as the Notion API key, ensuring that these details are not hardcoded into the project. This approach also allows easy modification of environment variables for different setups (e.g., development, production).
+
+- **Message Metadata**: Properties like "Archived," "Starred," and "Read/Unread" were added to give users more control over their messages. These features improve usability, allowing users to organize their inbox more efficiently.
+
+- **Security Considerations**: While basic, the implementation ensures that all API interactions are done securely through environment variables, reducing the risk of exposing sensitive data.
+
+
 ##  Future Improvements 🎨
 Here are some potential features and enhancements that could be added to the Notion Mail CLI:
 
