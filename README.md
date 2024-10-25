@@ -1,6 +1,6 @@
 # Notion Mail CLI 💌
 
-Welcome to Notion Mail CLI, a command-line interface (CLI) tool that allows you to send, read, search, and manage messages via the Notion API. 
+Welcome to Notion Mail CLI, a command-line interface (CLI) tool that allows you to send, read, search, and manage messages via the Notion API!
 
 Notion Mail CLI is a simple and fun Command Line Interface (CLI) tool, powered by the magical ✨ Notion API ✨. It lets you send, read, search, and manage messages, all from the comfort of your terminal 📨💌
 
