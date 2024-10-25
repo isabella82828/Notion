@@ -38,8 +38,8 @@ Follow these steps to set up the **Notion Mail CLI** on your local machine.
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/username/Notion-Take-Home-Assessment.git
-   cd Notion-Take-Home-Assessment
+   git clone https://github.com/username/Notion-Mail-CLI.git
+   cd Notion-Mail-CLI
    
 2. To start the Notion Mail CLI, run:
    ```javascript
